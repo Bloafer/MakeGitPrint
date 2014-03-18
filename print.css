@@ -1,0 +1,10 @@
+.header, .site-footer, .repository-sidebar, .file-box .meta, .file-navigation, .commit, .pagehead{
+    display: none;
+}
+/* Optional but makes document full width */
+.file-box{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
